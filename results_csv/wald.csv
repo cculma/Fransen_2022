@@ -1,0 +1,6 @@
+,Df,Sum of Sq,Wald statistic,Pr(Chisq),Sig
+(Intercept),1,217204,217204,< 2e-16,***
+env,2,1252,1252,< 2e-16,***
+gen,199,245,245,0.014,*
+residual (MS),,1,,,
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1,,,,,

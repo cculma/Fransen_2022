@@ -1,0 +1,5 @@
+,component,std.error,z.ratio,bound,%ch
+gen,0.000707,0.000117,6.033140,P,0
+row:col!R,0.000664,0.000189,3.509240,P,0
+row:col!row!cor,0.750333,0.078315,9.580911,U,0.1
+row:col!col!cor,0.231371,0.230082,1.005602,U,0.2
